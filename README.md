@@ -1,6 +1,8 @@
 # StateCounter
 A simple project to demonstrate counter with useState
 
+![Screenshot of a simple project to demonstrate counter with useState developed by Varinder Pal Singh](https://raw.githubusercontent.com/Varinderbhadwal/StateCounter/refs/heads/main/Counter%20Project%20Screenshot.jpeg)
+
 ----
 
 ## About This Project
