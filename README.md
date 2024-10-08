@@ -3,7 +3,8 @@ A simple project to demonstrate counter with useState
 
 ----
 
-About This Project
+## About This Project
+
 This Counter Program is a simple yet functional web application built with React.js, designed to help beginners understand the fundamentals of React's component-based architecture and state management. The project showcases how to use React's useState hook to create dynamic, interactive user interfaces.
 
 ### Key Features:
